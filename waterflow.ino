@@ -19,8 +19,8 @@ long millis_current;
 long millis_LCD;
 long LCD_current;
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "HUAWEI-2008"; //nama wifi
-char pass[] = "1234567890";//password wifi
+char ssid[] = "HUAWEI-2008";
+char pass[] = "1234567890";
 
 
 //pin Sensor Ultrasonic
